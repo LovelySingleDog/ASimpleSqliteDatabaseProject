@@ -1,2 +1,2 @@
 # ASimpleSqliteDatabaseProject
-一个sqlite数据库的加单用法
+一个sqlite数据库的简单用法
